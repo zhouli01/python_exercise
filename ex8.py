@@ -1,0 +1,36 @@
+a = 100
+b = str(a)
+c = 12.345
+d = str(c)
+e = '123'
+f = int(e)
+g = '123.456'
+h = float(g)
+i = False
+j = str(i)
+k = 'hello'
+m = bool(k)
+print("a=",a)
+print("type(a) is",type(a))
+print("b=",b)
+print("type(b) is",type(b))
+print("c=",c)
+print("type(c) is",type(c))
+print("d=",d)
+print("type(d) is",type(d))
+print("e=",e)
+print("type(e) is",type(e))
+print("f=",f)
+print("type(f) is",type(f))
+print("g=",g)
+print("type(g) is",type(g))
+print("h=",h)
+print("type(h) is",type(h))
+print("i=",i)
+print("type(i) is",type(i))
+print("j=",j)
+print("type(j) is",type(j))
+print("k=",k)
+print("type(k) is",type(k))
+print("m=",m)
+print("type(m) is",type(m))
